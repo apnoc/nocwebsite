@@ -1,0 +1,401 @@
+{
+  "Navlink": [
+    {
+      "title": "About",
+      "link": "#nocaboutus"
+    },
+    {
+      "title": "Schemes of NOC",
+      "link": "#nocschemes"
+    },
+    {
+      "title": "News & Updates",
+      "link": "#nocnewsupdates"
+    },
+    {
+      "title": "Organization Structure",
+      "link": "nocorganization"
+    },
+    {
+      "title": "RTI",
+      "link": "nocrti"
+    },
+    {
+      "title": "Contact Us",
+      "link": "noccontact"
+    }
+  ],
+  "Navlinkdropdown": [
+    {
+      "title": "Announcements",
+      "subnavlinks": [
+        {
+          "subtitle": "Events",
+          "sublink": "nocannouncements/nocevents"
+        }
+      ]
+    }
+  ],
+
+  "Navlinkleft": [
+    {
+      "title": "Login",
+      "link": "https://noc.nic.in/"
+    }
+  ],
+  "socialicons": [
+    {
+      "link1": "https://www.india.gov.in/",
+      "title1": "Government of India",
+      "link2": "https://www.nic.in/",
+      "title2": "National Informatics Centre",
+      "iconslink": [
+        {
+          "iconname": "fa fa-instagram",
+          "link":"https://www.instagram.com/"
+        },
+        {
+          "iconname": "fa fa-facebook-f",
+          "link":"https://www.facebook.com/"
+        },
+        {
+          "iconname": "fa fa-instagram",
+          "link":"https://www.instagram.com/"
+        },
+        {
+          "iconname": "fa fa-sitemap",
+          "link":"/nocsitemap"
+        }
+      ]
+    }
+  ],
+
+  "Header": [
+    {
+      "img1": [
+        {
+          "imgsrc": "./images/bannerlogo1.png",
+          "imgalt": "logo1"
+        }
+      ],
+      "headertitle" : " National Informatics Center",
+      "description": [  
+        {"title": "NIC AP State Centre"},
+        { "title": "Network Operation Center" }
+      ],
+      "img2": [
+        {
+          "imgsrc": "./images/bannerlogo2.png",
+          "imgalt": "logo2"
+        }
+      ]
+    }
+  ],
+  "menu1": [
+    {
+      "title1": "nochome",
+      "title2": "nocaboutus",
+      "title3": "nocschemes",
+      "title4": "nocnewsupdates",
+      "section1": [
+        {
+          "carousel1": [
+            {
+              "img": "./images/carouselimage1.jpg",
+              "imgalt": "First slide"
+            }
+          ],
+          "carousel2": [
+            {
+              "img": "./images/carouselimage2.jpg",
+              "imgalt": "Second slide"
+            }
+          ],
+          "carousel3": [
+            {
+              "img": "./images/carouselimage3.jpg",
+              "imgalt": "Second slide"
+            }
+          ]
+        }
+      ],
+      "section2": [
+        {
+          "title": "About NOC ",
+          "paragraph": [
+            {
+              "p": " Industrial Training Department (ITD), Andhra Pradesh functions with the major objectives of providing Skill and Apprenticeship Training to the youths in Andhra Pradesh State. To achieve these objectives the ITD runs a variety of skill training programmes in Industrial Training Institutes in the State. It also registers the youth for Apprenticeship training across various establishments in the state."
+            },
+            {
+              "p": "Industrial Training Department (ITD), Andhra Pradesh functions with the major objectives of providing Skill and Apprenticeship Training to the youths in Andhra Pradesh State. To achieve these objectives the ITD runs a variety of skill training programmes in Industrial Training Institutes in the State. It also registers the youth for Apprenticeship training across various establishments in the state."
+            }
+          ],
+
+          "imgsrc": "./images/cardimg-1.jpg",
+          "imgalt": "image1",
+          "button": "View More",
+          "button_link": "nocabout"
+        }
+      ],
+      "section3": [
+        {
+          "title": "Schemes of NOC",
+          "card1": [
+            {
+              "imgsrc": "./images/cardimg-1.jpg",
+              "imgalt": "img-1 ",
+              "description": "Andhra Pradesh functions with the major objectives of providing and Apprenticeship Training to the youths training across various establishments in Andhra Pradesh State.",
+              "title": " Craftsmen Training",
+              "button": "View More"
+            },
+            {
+              "imgsrc": "./images/cardimg-2.jpg",
+              "imgalt": "img-1 ",
+              "description": "Andhra Pradesh functions with the major objectives of providing and Apprenticeship Training to the youths training across various establishments in Andhra Pradesh State. ",
+              "title": "Apprenticeship Training",
+              "button": "View More"
+            },
+            {
+              "imgsrc": "./images/cardimg-4.jpg",
+              "imgalt": "img-1 ",
+              "description": "Andhra Pradesh functions with the major objectives of providing and Apprenticeship Training to the youths training across various establishments in Andhra Pradesh State.  ",
+              "title": "Skill Development",
+              "button": "View More"
+            }
+          ],
+          "card2": [
+            {
+              "imgsrc": "./images/cardimg-2.jpg",
+              "imgalt": "img-1 ",
+              "description": "Andhra Pradesh functions with the major objectives of providing and Apprenticeship Training to the youths training across various establishments in Andhra Pradesh State.",
+              "title": " Craftsmen Training",
+              "button": "View More"
+            },
+            {
+              "imgsrc": "./images/cardimg-1.jpg",
+              "imgalt": "img-1 ",
+              "description": "Andhra Pradesh functions with the major objectives of providing and Apprenticeship Training to the youths training across various establishments in Andhra Pradesh State. ",
+              "title": "Apprenticeship Training",
+              "button": "View More"
+            },
+            {
+              "imgsrc": "./images/cardimg-4.jpg",
+              "imgalt": "img-1 ",
+              "description": "Andhra Pradesh functions with the major objectives of providing and Apprenticeship Training to the youths training across various establishments in Andhra Pradesh State.  ",
+              "title": "Skill Development",
+              "button": "View More"
+            }
+          ]
+        }
+      ],
+      "section4": [
+        {
+          "subsection1": [
+            {
+              "title": "News & Events ",
+              "paragraph": [
+                {
+                  "p": "Industrial Training Department (ITD)to the youths in Andhra Pradesh State. "
+                },
+                {
+                  "p": "Industrial Training Department (ITD)to the youths in Andhra Pradesh State. "
+                },
+                {
+                  "p": "Industrial Training Department (ITD)to the youths in Andhra Pradesh State. "
+                },
+                {
+                  "p": "Industrial Training Department (ITD)to the youths in Andhra Pradesh State. "
+                }
+              ],
+              "button": "View More",
+              "button_link": "about"
+            }
+          ],
+          "subsection2": [
+            {
+              "title": "Media Gallery",
+              "imgsrc": "./images/cardimg-1.jpg",
+              "imgalt": "image1",
+              "button": "View More",
+              "button_link": "nocImages"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+
+  "menu2": [
+    {
+      "title": "Department",
+      "paragraph": [
+        {
+          "p": "Industrial Training Department (ITD), Andhra Pradesh functions with the major objectives of providing Skill and Apprenticeship Training to the youths in Andhra Pradesh State. To achieve these objectives the ITD runs a variety of skill training programmes in Industrial Training Institutes in the State. It also registers the youth for Apprenticeship training across various establishments in the state."
+        },
+        {
+          "p": "The Directorate of Training,  is working under the Department of Labour & , Government of Andhra Pradesh. It was formed in Andhra Pradesh State in 1970 by amalgamation of the Employment Wing, functioning under the Labour Commissionerate, and the Vocational Training Scheme under the Directorate of Technical Education. In the beginning, Industrial Training Institutes were functioning under direct control and supervision of the Director General of  Training (DGT), New Delhi, Ministry of  Government of India. Subsequently the administration of Industrial Training Institutes (noc) under the Craftsmen Training Schemes has been transferred to the State government."
+        },
+        {
+          "p": "The Industrial Department is the agency for implementation of Craftsman training Scheme (CTS) & Apprenticeship Training Scheme (ATS), major skill up- gradation schemes of the Director General of  Training (DGT) in the state. A host of new schemes are being implemented by the department throughout the state namely Centres of Excellence, PPP, Modular Employable etc which is transforming the skill development in the state of Andhra Pradesh."
+        },
+        {
+          "p": "Industrial Training Department (ITD), Andhra Pradesh functions with the major objectives of providing Skill and Apprenticeship Training to the youths in Andhra Pradesh State. To achieve these objectives the ITD runs a variety of skill training programmes in Industrial Training Institutes in the State. It also registers the youth for Apprenticeship training across various establishments in the state."
+        },
+        {
+          "p": "The Directorate of Training,  is working under the Department of Labour & , Government of Andhra Pradesh. It was formed in Andhra Pradesh State in 1970 by amalgamation of the Employment Wing, functioning under the Labour Commissionerate, and the Vocational Training Scheme under the Directorate of Technical Education. In the beginning, Industrial Training Institutes were functioning under direct control and supervision of the Director General of  Training (DGT), New Delhi, Ministry of  Government of India. Subsequently the administration of Industrial Training Institutes (noc) under the Craftsmen Training Schemes has been transferred to the State government."
+        },
+        {
+          "p": "The Industrial Department is the agency for implementation of Craftsman training Scheme (CTS) & Apprenticeship Training Scheme (ATS), major skill up- gradation schemes of the Director General of  Training (DGT) in the state. A host of new schemes are being implemented by the department throughout the state namely Centres of Excellence, PPP, Modular Employable etc which is transforming the skill development in the state of Andhra Pradesh."
+        }
+      ]
+    }
+  ],
+  "menu3": [
+    {
+      "title": "",
+      "apiurl": ""
+    }
+  ],
+  "menu4": [
+    {
+      "section1": [
+        {
+          "title": "Schemes of noc",
+          "card": [
+            {
+              "imgsrc": "./images/cardimg-1.jpg",
+              "imgalt": "img-1 ",
+              "description": "Andhra Pradesh functions with the major objectives of providing and Apprenticeship Training to the youths training across various establishments in Andhra Pradesh State.",
+              "title": " Craftsmen Training",
+              "button": "View More"
+            },
+            {
+              "imgsrc": "./images/cardimg-2.jpg",
+              "imgalt": "img-1 ",
+              "description": "Andhra Pradesh functions with the major objectives of providing and Apprenticeship Training to the youths training across various establishments in Andhra Pradesh State. ",
+              "title": "Apprenticeship Training",
+              "button": "View More"
+            },
+            {
+              "imgsrc": "./images/cardimg-4.jpg",
+              "imgalt": "img-1 ",
+              "description": "Andhra Pradesh functions with the major objectives of providing and Apprenticeship Training to the youths training across various establishments in Andhra Pradesh State.  ",
+              "title": "Skill Development",
+              "button": "View More"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "menu5": [
+    {
+      "submenu1": [
+        {
+          "title": "",
+          "subtitle": ""
+        }
+      ]
+    }
+  ],
+  "menu6": [
+    {
+      "submenu1": [{}],
+      "submenu2": [{}],
+      "submenu3": [{}],
+      "submenu4": [{}]
+    }
+  ],
+  "menu7": [{}],
+  "menu8": [
+    {
+      "notification": " Application Form for Admission into the Industrial Training Institute for the session 2020 for Phase-4 "
+    }
+  ],
+
+  "footerlink": [
+    {
+      "title": "Website Policies",
+      "link": "nocwebsitepolicies"
+    },
+    {
+      "title": " Help",
+      "link": "nochelp"
+    }
+  ],
+
+  "footer": [
+    {
+      "header": " Industrial Training Institutes",
+      "subheader": "noc © 2020",
+      "socialLinks": [
+        {
+          "icon": "social-icon-link facebook",
+          "link": "/",
+          "arialabel": "Facebook",
+          "target": "_blank",
+          "iconlink": "fa fa-facebook-f"
+        },
+        {
+          "icon": "social-icon-link instagram",
+          "link": "/",
+          "arialabel": "Instagram",
+          "target": "_blank",
+          "iconlink": "fa fa-instagram"
+        },
+        {
+          "icon": "social-icon-link youtube",
+          "link": "/",
+          "arialabel": "Youtube",
+          "target": "_blank",
+          "iconlink": "fa fa-youtube"
+        },
+        {
+          "icon": "social-icon-link twitter",
+          "link": "/",
+          "arialabel": "Twitter",
+          "target": "_blank",
+          "iconlink": "fa fa-twitter"
+        },
+        {
+          "icon": "social-icon-link linkedin",
+          "link": "/",
+          "arialabel": "Linkedin",
+          "target": "_blank",
+          "iconlink": "fa fa-linkedin"
+        }
+      ]
+    }
+  ],
+  "sitemap": [
+    {
+      "title": "Sitemap",
+      "header": [
+        {
+          "title": "Primary Menu",
+          "subheader": [
+            { "title": "Home", "link": "/home" },
+            { "title": "Aboutus", "link": "/about" },
+            { "title": "Schemes of noc", "link": "/schemes" },
+            { "title": "Trades", "link": "/trades" },
+            { "title": "Contact Us", "link": "/contact" }
+          ]
+        },
+        {
+          "title": "Login Menu",
+          "subheader": [
+            { "title": "Student Login", "link": "/studentLogin" },
+            { "title": "Employee Login", "link": "/employeeLogin" }
+          ]
+        },
+        {
+          "title": "Footer Menu",
+          "subheader": [
+            { "title": "noc", "link": "/home" },
+            { "title": "Icons", "link": "/home" }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+.d-tree-container {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .d-tree-node {
+    padding: 0.75rem 1.25rem;
+  }
+  
+  .d-tree-toggler.active {
+	transform: rotate(45deg);
+	padding: 0.75rem 0.25rem;
+  }
+  
+
+.accent-border-color {
+	border-color: #f65a64 !important;
+}
+
+.tree-wdgt-name{
+	font-weight: 600;
+}
+
+.treename-widgt {
+	display: inline-flex;
+	align-items: center;
+	min-width: 150px;
+	position: relative;
+	border: 1px solid #ccc;
+}
+
+.name-and-desig {
+	padding: 5px 0;
+	margin-left: 10px;
+}
+
+
+.treename-widgt .name-and-desig > spann {
+	display: block;
+	padding-top: 2px;
+	font-weight: 300;
+}
+
+
+.tree-wdgt-tooltip .tootip-phmail {
+	position: relative;
+	padding-left: 20px;	
+	width: 100%;
+	margin: 2px 0;
+	word-break: break-all;
+}

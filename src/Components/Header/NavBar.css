@@ -1,0 +1,21 @@
+.box {
+  display: flex;
+  justify-content: space-between;
+  margin: 0rem 1rem;
+}
+
+.image-style2 {
+  align-items: baseline;
+  float: right;
+}
+
+.titleheader:first-child {
+  font-size: 22px;
+}
+
+.titleheader {
+  font-weight: bold;
+  text-transform: none;
+  font-size: 22px;
+  color: #002c56;
+}
