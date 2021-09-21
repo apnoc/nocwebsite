@@ -4,6 +4,7 @@ import Organization from "../modules/Menu2";
 import Rti from "../modules/Menu3/index";
 import Events from "../modules/Menu4/SubMenu1/index";
 import ContactUs from "../modules/Menu5/index";
+import Login from "../modules/Menu6/index";
 import Map from "../modules/Menu5/map";
 import Webpolicies from "../Components/Footer/webpolicies";
 import Help from "../Components/Footer/help";
@@ -55,9 +56,13 @@ const routesConfig = [
     component: Error,
   },
   {
-    path: "/nicapsc-noc/nocimages",
+   path: "/nicapsc-noc/nocimages",
     component: Images,
-  },
+  }, 
+  {
+    path: "/nicapsc-noc/noclogin",
+     component: Login,
+   }, 
   {
     path: "/nicapsc-noc/nocsitemap",
     component: SiteMap,

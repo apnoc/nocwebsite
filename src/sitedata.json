@@ -40,7 +40,7 @@
   "Navlinkleft": [
     {
       "title": "Login",
-      "link": "https://noc.nic.in/"
+      "link": "noclogin"
     }
   ],
   "socialicons": [
@@ -52,19 +52,19 @@
       "iconslink": [
         {
           "iconname": "fa fa-instagram",
-          "link":"https://www.instagram.com/"
+          "link": "https://www.instagram.com/"
         },
         {
           "iconname": "fa fa-facebook-f",
-          "link":"https://www.facebook.com/"
+          "link": "https://www.facebook.com/"
         },
         {
           "iconname": "fa fa-instagram",
-          "link":"https://www.instagram.com/"
+          "link": "https://www.instagram.com/"
         },
         {
           "iconname": "fa fa-sitemap",
-          "link":"/nocsitemap"
+          "link": "/nocsitemap"
         }
       ]
     }
@@ -78,9 +78,9 @@
           "imgalt": "logo1"
         }
       ],
-      "headertitle" : " National Informatics Center",
-      "description": [  
-        {"title": "NIC AP State Centre"},
+      "headertitle": " National Informatics Center",
+      "description": [
+        { "title": "NIC AP State Centre" },
         { "title": "Network Operation Center" }
       ],
       "img2": [
