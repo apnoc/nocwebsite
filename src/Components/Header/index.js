@@ -96,6 +96,13 @@ function Header() {
                         {i.title}
                         <span className="sr-only">(current)</span>
                       </a>
+                      {/* <a
+                        className="nav-link "
+                        href={login ? <a> {i.link} </a> : <a>{i.path}</a>}
+                      >
+                        {i.title}
+                        <span className="sr-only">(current)</span>
+                      </a> */}
                     </li>
                   </>
                 );
